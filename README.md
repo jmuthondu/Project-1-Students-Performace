@@ -20,7 +20,18 @@ We set the null hypothesis to equal each other
     - Parent's Level of Education being Bachelor's or Master's Degrees.Standard Lunch only and Exam Preparatio Class taken.
     - The rest of the population would be the student population that is not deemed to have a clear social and economic advantage.
     
--  The results would be examined by taking a mean score of the reading,writing and mathematics exam.However,since the data is available, we can take a deeper look into each subject area if needed.   
+-  The results would be examined by taking a mean score of the reading,writing and mathematics exam.However,since the data is available, we can take a deeper look into each subject area if needed. 
+We used the stats library to run the t-tests to obtain the T value and P values from the data.
+
+## Results Summary
+Popualtion Sizes:
+  
+  - Total Students Population: 1000
+  - Advantaged Student Population: 37
+  - Non-Advantaged Student Population: 963
+  
+  
+
     
     
     
