@@ -20,7 +20,7 @@ We set the null hypothesis to equal each other
     - Parent's Level of Education being Bachelor's or Master's Degrees.Standard Lunch only and Exam Preparatio Class taken.
     - The rest of the population would be the student population that is not deemed to have a clear social and economic advantage.
     
--     
+-  The results would be examined by taking a mean score of the reading,writing and mathematics exam.However,since the data is available, we can take a deeper look into each subject area if needed.   
     
     
     
