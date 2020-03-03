@@ -1,7 +1,7 @@
 # Social-Economic Impact on Education
 It has been theorized for years that students that have a social and economic advantage will do better academically than students that do not have advantages.
 We wanted to review how socio-economic advantages might impact standardized test scores in the high school population.
-# Questions we had ask ourselves
+## Questions we had ask ourselves
 - Does economic and social advantages give students an advantage when it comes to academics?
 - If there is a difference, in exam scores, could the difference be explained by race, gender or other factors?
 - How does one define social and economic adavantage?
@@ -14,4 +14,16 @@ We set the null hypothesis to equal each other
 
 - The metrics provided from the dataset include:
      - Parent's highest level of education, Gender,Race or Ethnicity.Standard or Reduced/Free Lunch,Exam Preparation Course taken,Writing Exam Score,Reading Exam Score, and Math Exam Score.
-
+     
+## Populations Defined
+- Given the available data, we set the advantages for high school students to be:
+    - Parent's Level of Education being Bachelor's or Master's Degrees.Standard Lunch only and Exam Preparatio Class taken.
+    - The rest of the population would be the student population that is not deemed to have a clear social and economic advantage.
+    
+-     
+    
+    
+    
+    
+    
+    
