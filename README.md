@@ -7,5 +7,5 @@ We wanted to review how socio-economic advantages might impact standardized test
 - How does one define social and economic adavantage?
 - Can we state with 95% confidence that "advantaged" students outperform their "non-advantged counterparts?"
 # Methodology Used to Test the Hypothesis
-We set the null hypothesis to equal each other:
+We set the null hypothesis t
 -
