@@ -29,7 +29,9 @@ Popualtion Sizes:
   - Total Students Population: 1000
   - Advantaged Student Population: 37
   - Non-Advantaged Student Population: 963
-  
+- Statistics Results:
+    - T-Test Result: 2.8
+    - P-Value Result: 0.01
   
 
     
