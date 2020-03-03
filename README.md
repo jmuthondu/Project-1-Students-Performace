@@ -9,3 +9,6 @@ We wanted to review how socio-economic advantages might impact standardized test
 # Methodology Used to Test the Hypothesis
 We set the null hypothesis to equal each other
 
+- Advantaged Students should have the same exam score as Non-Advantaged Students.
+- If we have a P-Value of greater than 0.05,then we will accept the null hypothsis that the exam scores of advantaged students and non-advantaged students are equal to each other.
+
