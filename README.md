@@ -13,5 +13,5 @@ We set the null hypothesis to equal each other
 - If we have a P-Value of greater than 0.05,then we will accept the null hypothsis that the exam scores of advantaged students and non-advantaged students are equal to each other. If the P-Value is less than 0.05 then we will reject the hypothesis and accept with 95% confidence that the results are not equal to each other.
 
 - The metrics provided from the dataset include:
-     - Parent's highest level of education
+     - Parent's highest level of education 
 
